@@ -1,7 +1,9 @@
 # pixelpen-blog
-PixelPen is a blogging web app that allows users to read daily technical blogs. It is built using Next.js 13 and utilizes Sanity v3 as the content management system (CMS) for organizing and presenting the blog content.
+PixelPen is a responsive blogging web application that allows users to read daily technical blogs. It is built using Next.js 13 and utilizes Sanity v3 as the content management system (CMS) for organizing and presenting the blog content.
 
 ![preview](./public/preview.png)
+
+Click [here](https://pixelpen-blog.vercel.app/) to visit live version.
 
 ## ⚙️ Built With
 * [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)

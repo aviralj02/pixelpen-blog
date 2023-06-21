@@ -12,9 +12,9 @@ Click [here](https://pixelpen-blog.vercel.app/) to visit live version.
 * [Sanity CMS](https://www.sanity.io/)
 
 ## Local Setup & Installation
-* Clone the repo https://github.com/aviralj02/pixelpen-blog.git
+* Clone this repository.
 ```
-$ git clone 
+$ git clone https://github.com/aviralj02/pixelpen-blog.git
 ```
 * Install NPM Packages
 ```
